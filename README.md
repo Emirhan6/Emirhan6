@@ -5,5 +5,5 @@
 
 Contact with me via these platforms! 
 
-  <a href="mailto:eaykanli86@gmail.com"
+  mailto:eaykanli86@gmail.com"
 -->
