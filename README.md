@@ -2,8 +2,8 @@
 ### Linkedin: https://www.linkedin.com/in/emirhan-aykanlı-5a2323207/
 ###
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Emirhan6.visitor-badge)](https://GitHub.com/Emirhan6/StrapDown.js/stargazers/)
-[![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)](https://github.com/gulceselim?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Emirhan6?style=social)](https://github.com/Emirhan6?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/Emirhan6?style=social)
                                                            
 
 <!--
